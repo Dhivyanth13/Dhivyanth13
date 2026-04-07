@@ -13,10 +13,9 @@
 ![](https://streak-stats.demolab.com/?user=Dhivyanth13&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhivyanth13&theme=dark&hide_border=false&layout=compact)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dhivyanth13&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=Dhivyanth13&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhivyanth13&repo=car-purchase-prediction&theme=dark)](https://github.com/Dhivyanth13/car-purchase-prediction)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dhivyanth13&repo=resume-parser&theme=dark)](https://github.com/Dhivyanth13/resume-parser)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
