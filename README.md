@@ -29,6 +29,12 @@ print(me)
 
 ---
 
+<!-- Divider GIF -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+</p>
+
 # 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/dhivyanth)
@@ -60,6 +66,7 @@ print(me)
 
 ---
 
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=Dhivyanth13\&theme=github_dark_dimmed\&hide_border=true\&include_all_commits=false\&count_private=false) <br/>
@@ -81,4 +88,6 @@ print(me)
 
 ---
 
+
 [![](https://komarev.com/ghpvc/?username=Dhivyanth13\&icon=1\&color=0)](https://visitcount.itsvg.in)
+
