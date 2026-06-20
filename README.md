@@ -5,9 +5,26 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
 </p>
 
-# 💫 About Me:
-Artificial Intelligence and Data Science undergraduate 🎓 with a strong foundation in Python 🐍 and basic Java ☕ (OOP). Skilled in Data Structures and Algorithms 📊, with experience in writing efficient, clean code and building simple applications.<br><br>
-Currently focused on improving problem-solving skills 🧠 and strengthening core programming while working on practical projects ⚙️. Seeking internship or entry-level opportunities in software development or data-related roles 🚀.
+```python
+class Dhivyanth:
+    def __init__(self):
+        self.role = "AI & Data Science Undergraduate 🎓"
+        self.languages = ["Python 🐍", "Java ☕", "C"]
+        self.core_skills = ["Data Structures", "Algorithms", "OOP"]
+        self.interests = ["Software Development", "Data Systems"]
+        self.current_focus = [
+            "Improving problem-solving (DSA)",
+            "Strengthening Python & Java",
+            "Building practical projects"
+        ]
+        self.goals = "Internship / Entry-level role in Software or Data domain 🚀"
+
+    def __str__(self):
+        return "Focused on writing clean, efficient, and scalable code."
+
+me = Dhivyanth()
+print(me)
+---
 
 ---
 
