@@ -29,12 +29,6 @@ print(me)
 
 ---
 
-<!-- Divider GIF -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
-</p>
-
 # 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/dhivyanth)
@@ -42,11 +36,6 @@ print(me)
 
 ---
 
-<!-- Divider GIF -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
-</p>
 
 # 💻 Tech Stack:
 
@@ -71,12 +60,6 @@ print(me)
 
 ---
 
-<!-- Divider GIF -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
-</p>
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=Dhivyanth13\&theme=github_dark_dimmed\&hide_border=true\&include_all_commits=false\&count_private=false) <br/>
@@ -85,11 +68,6 @@ print(me)
 
 ---
 
-<!-- Divider GIF -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
-</p>
 
 # 📈 Activity Graph:
 
